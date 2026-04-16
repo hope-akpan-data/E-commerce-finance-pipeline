@@ -1,4 +1,3 @@
-Project Title
 
 E-commerce Finance Analytics Pipeline
 
